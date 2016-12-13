@@ -29,19 +29,19 @@
 						<h2 class="blockTitle wow fadeInDown">我们的服务</h2>
 						<ul class="customPageLinks">
 							<li class="wow fadeInUp" data-wow-delay="200ms">
-								<a href="/services/corporate-travel/">
+								<a href="/services/corporate-travel.php">
 									<img src="/static/img/corp-icon.png" class="img-responsive">
 									<h3>公司差旅</h3>
 								</a>
 							</li>
 							<li class="wow fadeInUp" data-wow-delay="400ms">
-								<a href="/services/meetings-groups-events/">
+								<a href="/services/meetings-groups-events.php">
 									<img src="/static/img/mge-icon.png" class="img-responsive">
 									<h3>会议，会务和团队</h3>
 								</a>
 							</li>
 							<li class="wow fadeInUp" data-wow-delay="600ms">
-								<a href="/services/consulting/">
+								<a href="/services/consulting.php">
 									<img src="/static/img/consult-icon.png" class="img-responsive">
 									<h3>咨询</h3>
 								</a>
@@ -282,7 +282,7 @@
 			<p>您可以在全球页面上查询到有关商旅国际的最新消息</p>
 
 			<p>
-			<a href="/media/press-releases/" class="button mainBtn">阅读更多</a>
+			<a href="/media/press-releases.php" class="button mainBtn">阅读更多</a>
 			</p>
 
 
@@ -348,7 +348,7 @@
 	<div class="container">
 		<div class="getIT">
 			<p>了解商旅国际如何帮助贵公司节省费用</p>
-			<a href="/contact-us" class="btn secondaryBtn">联系我们</a>
+			<a href="/contact-us.php" class="btn secondaryBtn">联系我们</a>
 		</div>
 	</div><!-- /.container -->
 

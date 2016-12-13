@@ -18,16 +18,16 @@
 					<div class="row">
 
 						<div class="col-sm-3 col-xs-6 quickLinks">
-							<h4>服务</h4><div class="menu-service-menu-container"><ul id="menu-service-menu" class="menu"><li id="menu-item-1157" class="menu-item menu-item-type-post_type menu-item-object-services menu-item-1157"><a href="/services/corporate-travel/">公司差旅</a></li>
-							<li id="menu-item-1160" class="menu-item menu-item-type-post_type menu-item-object-services menu-item-1160"><a href="/services/meetings-groups-events/">会议，会务和团队</a></li>
-							<li id="menu-item-1156" class="menu-item menu-item-type-post_type menu-item-object-services menu-item-1156"><a href="/services/consulting/">咨询</a></li>
+							<h4>服务</h4><div class="menu-service-menu-container"><ul id="menu-service-menu" class="menu"><li id="menu-item-1157" class="menu-item menu-item-type-post_type menu-item-object-services menu-item-1157"><a href="/services/corporate-travel.php">公司差旅</a></li>
+							<li id="menu-item-1160" class="menu-item menu-item-type-post_type menu-item-object-services menu-item-1160"><a href="/services/meetings-groups-events.php">会议，会务和团队</a></li>
+							<li id="menu-item-1156" class="menu-item menu-item-type-post_type menu-item-object-services menu-item-1156"><a href="/services/consulting.php">咨询</a></li>
 						</ul></div>					
 					</div><!-- /.quickLinks -->
 
 					<div class="col-sm-3 col-xs-6 quickLinks">
 						<h4>媒体</h4><div class="menu-media-menu-footer-container"><ul id="menu-media-menu-footer" class="menu"><li id="menu-item-1165" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1165"><a href="/media/press-releases/">新闻</a></li>
-						<li id="menu-item-1166" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1166"><a href="/media/publications/">出版物</a></li>
-						<li id="menu-item-1129" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1129"><a href="/contact-us/#mediaEnquiry">传媒查询</a></li>
+						<li id="menu-item-1166" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1166"><a href="/media/publications.php">出版物</a></li>
+						<li id="menu-item-1129" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1129"><a href="/contact-us.php#mediaEnquiry">传媒查询</a></li>
 					</ul></div>			    </div><!-- /.quickLinks -->
 					<div class="col-sm-3 col-xs-6 quickLinks">
 						<h4>关于我们</h4><div class="menu-about-us-footer-container"><ul id="menu-about-us-footer" class="menu"><li id="menu-item-1167" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1167"><a href="/why-hrg/">为什么选择商旅国际?</a></li>
@@ -37,7 +37,7 @@
 						<li id="menu-item-1173" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1173"><a href="/careers/">工作机会</a></li>
 					</ul></div>			    </div><!-- /.quickLinks -->
 					<div class="col-sm-3 col-xs-6 quickLinks">
-						<h4>联系我们</h4><div class="menu-contact-footer-container"><ul id="menu-contact-footer" class="menu"><li id="menu-item-1170" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1170"><a href="/contact-us/">查询表格</a></li>
+						<h4>联系我们</h4><div class="menu-contact-footer-container"><ul id="menu-contact-footer" class="menu"><li id="menu-item-1170" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1170"><a href="/contact-us.php">查询表格</a></li>
 						<li id="menu-item-1171" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1171"><a href="/locations/">联系商旅国际</a></li>
 						<li id="menu-item-1144" class="modal_activator menu-item menu-item-type-custom menu-item-object-custom menu-item-1144"><a href="index.html#travelEmergency">旅行者帮助页面</a></li>
 					</ul></div>			    </div><!-- /.quickLinks -->				    

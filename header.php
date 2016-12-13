@@ -14,7 +14,8 @@
 
 
  	<link href="/static/css/bootstrap.min.css" rel="stylesheet">
- 	<link href="/static/fonts/font-awesome.min.css" rel="stylesheet">
+ 	<link href="//cdn.bootcss.com/font-awesome/4.7.0/css/font-awesome.css" rel="stylesheet">
+ 	<!-- <link href="/static/fonts/font-awesome.min.css" rel="stylesheet"> -->
  	<link href="/static/css/slick.css" rel="stylesheet">
  	<link href="/static/css/slick-theme.css" rel="stylesheet">
  	<link href="/static/css/bootstrap-select.min.css" rel="stylesheet">
@@ -158,17 +159,17 @@
 					<div class="navbar-collapse navbar-right navbar-main-collapse collapse">
 						<ul class="nav navbar-nav nav-zh-CN"><li id="menu-item-1146" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-1146 dropdown"><a title="服务" href="/services/" data-toggle="dropdown" class="dropdown-toggle disabled" aria-haspopup="true">服务 </a>
 							<ul role="menu" class=" dropdown-menu animated">
-								<li id="menu-item-1152" class="menu-item menu-item-type-post_type menu-item-object-services menu-item-1152"><a title="公司差旅" href="/services/corporate-travel/">公司差旅</a></li>
-								<li id="menu-item-1155" class="menu-item menu-item-type-post_type menu-item-object-services menu-item-1155"><a title="会议，会务和团队" href="/services/meetings-groups-events/">会议，会务和团队</a></li>
-								<li id="menu-item-1151" class="menu-item menu-item-type-post_type menu-item-object-services menu-item-1151"><a title="咨询" href="/services/consulting/">咨询</a></li>
+								<li id="menu-item-1152" class="menu-item menu-item-type-post_type menu-item-object-services menu-item-1152"><a title="公司差旅" href="/services/corporate-travel.php">公司差旅</a></li>
+								<li id="menu-item-1155" class="menu-item menu-item-type-post_type menu-item-object-services menu-item-1155"><a title="会议，会务和团队" href="/services/meetings-groups-events.php">会议，会务和团队</a></li>
+								<li id="menu-item-1151" class="menu-item menu-item-type-post_type menu-item-object-services menu-item-1151"><a title="咨询" href="/services/consulting.php">咨询</a></li>
 							</ul>
 						</li>
 						<li id="menu-item-1145" class="hide-xs menu-item menu-item-type-post_type menu-item-object-page menu-item-1145"><a title="地址" href="/locations/">地址</a></li>
 						<li id="menu-item-1174" class="show-xs menu-item menu-item-type-post_type menu-item-object-page menu-item-1174"><a title="地址" href="/locations/hrg-location-a-z/">地址</a></li>
 						<li id="menu-item-1150" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1150"><a title="媒体" href="/media/">媒体</a></li>
-						<li id="menu-item-1149" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1149"><a title="关于我们" href="/about-us/">关于我们</a></li>
+						<li id="menu-item-1149" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1149"><a title="关于我们" href="/about-us.php/">关于我们</a></li>
 						<li id="menu-item-1148" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1148"><a title="工作机会" href="/careers/">工作机会</a></li>
-						<li id="menu-item-1147" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1147"><a title="联系我们" href="/contact-us/">联系我们</a></li>
+						<li id="menu-item-1147" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1147"><a title="联系我们" href="/contact-us.php">联系我们</a></li>
 					</ul>			    </div>
 				</div><!-- /.col-sm-10.col-xs-12 -->
 			</div><!-- /.row -->

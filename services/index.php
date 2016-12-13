@@ -8,17 +8,17 @@
 			<h1 class="pageTitle">服务</h1>
 			<div class="subPageIntro hidden-xs">
 				<ul>
-					<li><a href="/services/corporate-travel/">
+					<li><a href="/services/corporate-travel.php">
 						<img src="http://cn.hrgworldwide.com/wp-content/uploads/sites/18/2015/12/corp-white-icon.png" class="img-responsive">
 						<h3>公司差旅</h3>
 					</a>
 				</li>
-				<li><a href="/services/meetings-groups-events/">
+				<li><a href="/services/meetings-groups-events.php">
 					<img src="http://cn.hrgworldwide.com/wp-content/uploads/sites/18/2015/12/mge-white-icon.png" class="img-responsive">
 					<h3>会议，会务和团队</h3>
 				</a>
 			</li>
-			<li><a href="/services/consulting/">
+			<li><a href="/services/consulting.php">
 				<img src="http://cn.hrgworldwide.com/wp-content/uploads/sites/18/2015/12/consult-white-icon.png" class="img-responsive">
 				<h3>咨询</h3>
 			</a>
@@ -32,17 +32,17 @@
 	<div class="container">		    
 		<ul class="customPageLinks">
 			<li>
-				<a href="/services/corporate-travel/">
+				<a href="/services/corporate-travel.php">
 					<img src="http://cn.hrgworldwide.com/wp-content/uploads/sites/18/2015/12/corp-icon.png" class="img-responsive">
 					<h3>公司差旅</h3></a>
 				</li>
 				<li>
-					<a href="/services/meetings-groups-events/">
+					<a href="/services/meetings-groups-events.php">
 						<img src="http://cn.hrgworldwide.com/wp-content/uploads/sites/18/2015/12/mge-icon.png" class="img-responsive">
 						<h3>会议，会务和团队</h3></a>
 					</li>
 					<li>
-						<a href="/services/consulting/">
+						<a href="/services/consulting.php">
 							<img src="http://cn.hrgworldwide.com/wp-content/uploads/sites/18/2015/12/consult-icon.png" class="img-responsive">
 							<h3>咨询</h3></a>
 						</li>
@@ -168,7 +168,7 @@
 					<div class="row ">
 					</p>
 					<div class="getIT">了解商旅国际如何帮助贵公司节省费用<br />
-						<a class="underlined" href="/contact-us">联系我们</a></div>
+						<a class="underlined" href="/contact-us.php">联系我们</a></div>
 						<p>					</div>
 						</div>
 					</section>
