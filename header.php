@@ -154,7 +154,7 @@
 						</button>			
 					</div>
 					<div id="showRight" class="hidden-xs selectLanguage pull-right">
-						<a href="index.html#">选择国家</a>
+						<a href="#"></a>
 					</div>
 					<div class="navbar-collapse navbar-right navbar-main-collapse collapse">
 						<ul class="nav navbar-nav nav-zh-CN"><li id="menu-item-1146" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-1146 dropdown"><a title="服务" href="/services/" data-toggle="dropdown" class="dropdown-toggle disabled" aria-haspopup="true">服务 </a>
@@ -166,9 +166,9 @@
 						</li>
 						<li id="menu-item-1145" class="hide-xs menu-item menu-item-type-post_type menu-item-object-page menu-item-1145"><a title="地址" href="/locations/">地址</a></li>
 						<li id="menu-item-1174" class="show-xs menu-item menu-item-type-post_type menu-item-object-page menu-item-1174"><a title="地址" href="/locations/hrg-location-a-z/">地址</a></li>
-						<li id="menu-item-1150" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1150"><a title="媒体" href="/media/">媒体</a></li>
+						<li id="menu-item-1150" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1150"><a title="媒体" href="/media.php">媒体</a></li>
 						<li id="menu-item-1149" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1149"><a title="关于我们" href="/about-us.php/">关于我们</a></li>
-						<li id="menu-item-1148" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1148"><a title="工作机会" href="/careers/">工作机会</a></li>
+						<li id="menu-item-1148" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1148"><a title="工作机会" href="/careers.php">工作机会</a></li>
 						<li id="menu-item-1147" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1147"><a title="联系我们" href="/contact-us.php">联系我们</a></li>
 					</ul>			    </div>
 				</div><!-- /.col-sm-10.col-xs-12 -->

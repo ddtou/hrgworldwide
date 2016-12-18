@@ -1,7 +1,7 @@
 <?php include 'header.php';?>
 
 	<div class="mainContent">
-	    	        <div class="postThumbnail" style="background-image: url(http://cn.hrgworldwide.com/wp-content/uploads/sites/18/2015/12/商旅国际_ABOUTUS-MAP.png)">
+	    	        <div class="postThumbnail" style="background-image: url(http://cn.hrgworldwide.com/wp-content/uploads/sites/18/2015/12/HRG_ABOUTUS-MAP.png)">
 	    	<div class="pageHeader">
 	    	    <h1 class="pageTitle bordered">关于我们</h1>
 	    	</div>
@@ -18,7 +18,7 @@
 <p>我们的客户包括许多世界上最有声望的公司。我们为世界各地的旅客提供每天24小时的支持和紧急援助。无论目的地在哪儿–公司的总部，会议，石油钻钻塔或家中–我们竭尽全力确保旅客准时到达并准备好工作。在这个过程中我们可以节省客户时间，金钱和压力。</p>
 <p>我们怎么去做呢？对于非凡的人来说，每天都准备着迎难而上并且超越昨天。从我们的一线员工到董事会成员，我们的业务以在公司任期最长、最专注和最随和为核心作为基础。那些人，和他们多年来建立的关系，让我们在危机中也能将事情处理得完美。</p>
 <p>你需要走很长的路去找到他们。但是如果没有他们，我们就一无所获。</p>
-<p><a class="btn mainBtn" href="/why-hrg/">为什么选择商旅国际?</a></p>
+<!-- <p><a class="btn mainBtn" href="/why-hrg/">为什么选择商旅国际?</a></p> -->
 			    </div>
 			</div>
 
@@ -146,13 +146,13 @@
 
 	    	    <div class="corporateBrochureCarousel">
 	    		<div>
-			    <a href="http://cn.hrgworldwide.com/wp-content/uploads/2016/02/商旅国际-Corporate-Brochure.pdf" target="_blank">
+			    <!-- <a href="http://cn.hrgworldwide.com/wp-content/uploads/2016/02/商旅国际-Corporate-Brochure.pdf" target="_blank">
 			    				    	<img src="http://cn.hrgworldwide.com/wp-content/uploads/sites/18/2015/12/corporate-brochure.png" class="img-responsive">
-			    </a>
+			    </a> -->
 	    		</div>
 	    	    </div>
 	    	</div>
-		    <a href="http://cn.hrgworldwide.com/wp-content/uploads/2016/02/商旅国际-Corporate-Brochure.pdf" class="btn mainBtn" target="_blank">下载手册</a>
+		   <!--  <a href="http://cn.hrgworldwide.com/wp-content/uploads/2016/02/商旅国际-Corporate-Brochure.pdf" class="btn mainBtn" target="_blank">下载手册</a> -->
 
 	        </section><!-- /.primaryBlock -->
 
@@ -164,8 +164,8 @@
 	    			    	    <div style="background-image: url(http://cn.hrgworldwide.com/wp-content/uploads/sites/18/2015/12/商旅国际_promo.png);" class="col-sm-6 secondaryBlock dataThumb overlayBox">	
 	    		<h2 class="blockTitle">Hogg Robinson Group</h2>
 	    		<div class="blockOverlay">			   
-				    	    		    <a class="btn mainBtn" href="http://cn.hrgworldwide.com/hrg-plc/">
-	    			了解更多	    		    </a>
+				    	    		    <!-- <a class="btn mainBtn" href="http://cn.hrgworldwide.com/hrg-plc/">
+	    			了解更多	    		    </a> -->
 	    		</div>
 	    	    </div>
 	    	    	    	    <div style="background-image: url(http://cn.hrgworldwide.com/wp-content/uploads/sites/18/2015/12/daydayday.png);" class="col-sm-6 secondaryBlock dataThumb overlayBox">
